@@ -1,3 +1,5 @@
+![image](https://github.com/yashsonisde2003/yashsonisde2003/blob/main/1679574287920.jpg)
+
 <h1 align="center">Hi 👋, I'm Yash Soni</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
