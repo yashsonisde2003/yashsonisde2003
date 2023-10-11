@@ -17,7 +17,8 @@
 <a href="https://www.leetcode.com/yash083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash083" height="30" width="40" /></a>
 </p>
 
-<img align="right" src="![image](https://github.com/yashsonisde2003/yashsonisde2003/assets/144239405/55d32c99-86a6-461a-9262-821e565820f5)
+<img align="right" src="![image](https://github.com/yashsonisde2003/yashsonisde2003/assets/144239405/6adf6c8c-b631-407e-a173-ee1650ca33b1)
+
 " alt="coding" />
 
 <h3 align="left">Languages and Tools:</h3>
